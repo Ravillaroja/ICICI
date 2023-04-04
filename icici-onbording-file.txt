@@ -1,0 +1,4 @@
+hello wleom to devops
+today class
+we are installed git
+github acc creation
